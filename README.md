@@ -5,7 +5,7 @@ Description:
 A Rest API made by nodejs who gives random image based of what endpoints are you using.
 
 ## Usage
-``` https://api-randomimage-saikidesu-hg149ms2z-mraikero-01.vercel.app/api/megumin ```
+```https://localhost:8080/api/megumin``` or ``` https://api-randomimage-saikidesu-hg149ms2z-mraikero-01.vercel.app/api/megumin ```
 
 ## Package used
 + Express
