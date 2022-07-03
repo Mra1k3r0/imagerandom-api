@@ -10,4 +10,6 @@ Made by: SaikiDesu
 
 ## NPM used
 + Express
-
++ fs
++ http
++ path
