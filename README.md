@@ -6,8 +6,8 @@ A Rest API made by nodejs who gives random image based of what endpoints are you
 
 ## Usage
 ```https://localhost:8080/api/megumin``` 
-or 
-``` https://api-randomimage-saikidesu-hg149ms2z-mraikero-01.vercel.app/api/megumin ```
+\nor \n
+```https://api-randomimage-saikidesu-hg149ms2z-mraikero-01.vercel.app/api/megumin ```
 
 ## Package used
 + Express
