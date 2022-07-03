@@ -1,3 +1,5 @@
+<img alt="version" src="https://img.shields.io/github/package-json/v/mraikero-01/imagerandom-api?label=github&style=flat-square">
+
 # RandomImage Api
 
 Description:
