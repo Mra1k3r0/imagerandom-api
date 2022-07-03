@@ -12,4 +12,4 @@ An API who gives random image based of what endpoints are you using.
 + http
 + path
 
-Made by: SaikiDesu 
+Made by: [SaikiDesu](https://github.com/mraikero-01)
