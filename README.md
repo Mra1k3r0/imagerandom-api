@@ -5,11 +5,14 @@ Description:
 A Rest API made by nodejs who gives random image based of what endpoints are you using.
 
 ## Example Usage
+
+Localhost -
 ```https://localhost:8080/api/megumin``` 
-or
+
+Vercel -
 ```https://api-randomimage-saikidesu-hg149ms2z-mraikero-01.vercel.app/api/megumin ```
 
-heroku
+Heroku (suggested) - 
 ```https://api-randomimg-saikidesu.herokuapp.com/api/megumin```
 
 Result:
