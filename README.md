@@ -10,7 +10,7 @@ Localhost -
 ```https://localhost:8080/api/megumin``` 
 
 Vercel -
-```http://api-randomimage-saikidesu.vercel.app/ ```
+```http://api-randomimage-saikidesu.vercel.app/api/megumin ```
 
 Heroku (suggested) - 
 ```https://api-randomimg-saikidesu.herokuapp.com/api/megumin```
