@@ -19,4 +19,4 @@ Result
 + http
 + path
 
-Made by: [SaikiDesu](https://github.com/mraikero-01)
+Made by: [SaikiDesu (MrAik3ro)](https://github.com/mraikero-01)
