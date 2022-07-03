@@ -1,8 +1,8 @@
 const express = require('express')
 var router = express.Router();
-const { getBuffer, fetchJson } = require('../lib/meta')
-const axios = require('axios')
-const fs = require('fs')
+const { getBuffer, fetchJson } = require('../lib/meta');
+const axios = require('axios');
+const fs = require('fs');
 let fetch = require('node-fetch');
 __path = process.cwd()
 
