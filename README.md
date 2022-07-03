@@ -9,7 +9,7 @@ A Rest API made by nodejs who gives random image based of what endpoints are you
 or
 ```https://api-randomimage-saikidesu-hg149ms2z-mraikero-01.vercel.app/api/megumin ```
 
-Result
+Result:
 <img width="517" alt="screenshot2" src="https://i.ibb.co/c3K4W42/IMG-20220704-014830.jpg">
 
 
